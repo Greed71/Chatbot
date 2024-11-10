@@ -7,19 +7,13 @@
 ### Requisiti
 - **Sistema operativo**: Windows 10 o superiore
 - **Software**: Python e librerie richieste (da installare tramite pip):
-    - langchain_core.prompts
-    - langchain_core.output_parsers
+    - langchain_core
     - langchain_openai
-    - langchain_core.runnables
-    - abc
     - quart
     - uvicorn
     - json
     - python-dotenv
-    - langchain_openai
     - langchain_core.messages
-    - enum
-    - random
 - **Spazio su disco**: Almeno 2 GB di spazio libero
 - **Connessione di rete**: E' richiesta una connessione di rete
 
